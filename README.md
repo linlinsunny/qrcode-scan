@@ -33,6 +33,9 @@ A Python-based desktop QR code scanner. It captures your screen, automatically d
 
 ## 安装依赖 | Install dependencies
 
+macos 可能需要安装 zbar
+brew install zbar
+
 ```bash
 pip install -r requirements.txt
 ```
