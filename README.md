@@ -3,7 +3,7 @@
 ## 简介 | Introduction
 
 **中文**：
-一个基于 Python 的桌面二维码识别工具，支持一键截图并自动识别屏幕上的二维码，复制内容到剪贴板，并自动打开 URL。
+一个基于 Python 的桌面二维码识别工具，支持一键截图并自动识别屏幕上的二维码，复制内容到剪贴板，并自动打开 URL。现在好多发夸克资源的都只留二维码不留链接，在桌面端很难搞，要复制下来然后在找工具。这个脚本先截屏然后分析二维码直接复制到剪贴板，检测到是 url 就直接打开。然后删除截图。
 
 **English**：
 A Python-based desktop QR code scanner. It captures your screen, automatically detects QR codes, copies the result to clipboard, and opens URLs in your browser.
