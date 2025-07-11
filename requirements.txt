@@ -1,0 +1,6 @@
+mss
+pyperclip
+pillow
+pyzbar
+opencv-python
+numpy
